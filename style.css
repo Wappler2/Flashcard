@@ -69,4 +69,15 @@
     font-weight: 700;
     font-style: italic;
   }
-  
+  body {
+    background-color: bisque;
+    font-family: Bai Jamjuree;
+}
+footer {
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
+}
